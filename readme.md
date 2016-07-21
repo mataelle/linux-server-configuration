@@ -1,6 +1,6 @@
 ## Linux Server Configuration Project
 
-The working app is available [here](http://ec2-52-11-101-240.us-west-2.compute.amazonaws.com/)
+The working app is available [here](http://ec2-52-42-94-94.us-west-2.compute.amazonaws.com), ip: 52.42.94.94
 
 ### Steps that were made while configuring server
 
